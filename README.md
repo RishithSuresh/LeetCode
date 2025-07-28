@@ -1,2 +1,2 @@
 # LeetCode
-Solutions of LeetCode questions 
+This repo consists the solutions for the leetcode questions in C
